@@ -2,7 +2,7 @@
   "name": "university-soccer-club-website",
   "version": "0.1.0",
   "private": true,
-  "homepage": "https://github.com/in2004vsw-oss/qunese_site.git",
+  "homepage": "https://github.com/in2004vsw-oss/my-soccer-website",
   "dependencies": {
     "@radix-ui/react-accordion": "^1.2.3",
     "@radix-ui/react-alert-dialog": "^1.1.6",

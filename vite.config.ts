@@ -5,7 +5,7 @@ import path from 'path';
 export default defineConfig({
   plugins: [react()],
   // GitHub Pages 배포용 base 경로
-  base: '/qunese_site/', // 여기를 실제 GitHub 저장소 이름으로 바꾸세요
+  base: '/my-soccer-website/', // 여기를 실제 GitHub 저장소 이름으로 바꾸세요
   resolve: {
     extensions: ['.js', '.jsx', '.ts', '.tsx', '.json'],
     alias: {
