@@ -19,9 +19,9 @@ export interface ManOfTheMatch {
 const samplePlayers: Player[] = [
   {
     id: 1,
-    name: "방민우",
-    goals: 2,
-    assists: 0,
+    name: "김선빈",
+    goals: 9,
+    assists: 4,
     matches: 1,
     photo: "https://images.unsplash.com/photo-1516981299556-c5b4e1661279?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3Nzg4Nzd8MHwxfHNlYXJjaHwxfHxrb3JlYW4lMjBzb2NjZXIlMjBwbGF5ZXIlMjBhY3Rpb258ZW58MXx8fHwxNzU3NTY5MzI3fDA&ixlib=rb-4.1.0&q=80&w=400"
   },
@@ -64,10 +64,10 @@ const samplePlayers: Player[] = [
 export const manOfTheMatchHistory: ManOfTheMatch[] = [
   {
     id: 1,
-    player: samplePlayers[0], // 방민우
-    week: "1주차",
-    description: "부상의 투혼에도 엄청난 활약을 끝까지 보여주었습니다.",
-    image: "https://i.postimg.cc/pVzzMc3F/IMG-1408.avif"
+    player: samplePlayers[0], // 김선빈
+    week: "2주차",
+    description: "최고령임에도 불구하고 놀라운 경기력을 보여주며 팀의 승리를 이끌었습니다.",
+    image: "images/motm_week2.jpeg"
   },
 
 ];
