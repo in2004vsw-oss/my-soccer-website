@@ -67,7 +67,7 @@ export const manOfTheMatchHistory: ManOfTheMatch[] = [
     player: samplePlayers[0], // 김선빈
     week: "2주차",
     description: "최고령임에도 불구하고 놀라운 경기력을 보여주며 팀의 승리를 이끌었습니다.",
-    image: "public/images/motm_week2.jpeg",
+    image: "https://i.ibb.co/gFQyg8t7/motm-week2.jpg"
   }
 ];
 
